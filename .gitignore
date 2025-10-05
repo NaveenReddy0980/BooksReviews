@@ -1,0 +1,25 @@
+# ===== FRONTEND =====
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# ===== BACKEND =====
+backend/node_modules/
+backend/.env
+
+# ===== COMMON =====
+# Logs
+*.log
+
+# Environment files (just in case you add a root one)
+.env
+
+# OS / IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary or build files
+*.tmp
+*.bak
